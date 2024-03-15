@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.1.3
+
+- Update to `syn` 2.x
+
 ## 0.1.2
 
 - Use the `braille-ascii` crate for the underlying encoding functions
